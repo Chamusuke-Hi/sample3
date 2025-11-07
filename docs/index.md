@@ -24,7 +24,7 @@ a:hover {
 ![title](https://m.media-amazon.com/images/I/81hjkHvjw5L._SY342_.jpg)\
 [21世紀の独裁](https://www.amazon.co.jp/21%E4%B8%96%E7%B4%80%E3%81%AE%E7%8B%AC%E8%A3%81-%E7%A5%A5%E4%BC%9D%E7%A4%BE%E6%96%B0%E6%9B%B8-715-%E4%BD%90%E8%97%A4-%E5%84%AA%E3%80%81%E8%88%9B%E6%B7%BB/dp/4396117159 )
 
-内容へ続く：sub.md
+[内容へ続く](./sub.md)
 
 
 
