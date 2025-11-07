@@ -1,3 +1,4 @@
+<style>
 body {
   font-family: 'Arial', sans-serif;
   background-color: #f9f9f9;
@@ -13,6 +14,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+</style>
 
 # 最近読んだ本について
 
